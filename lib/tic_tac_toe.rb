@@ -103,5 +103,7 @@ def move(board, index, character)
   board [index] =character
 end  
   
+def turn
+end  
 
 
